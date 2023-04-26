@@ -1,5 +1,6 @@
-a="hello world"
+a="hello world, this is the new line added"
 print(a)
+print (b)
 # Store input numbers
 num1 = input('Enter first number: ')
 num2 = input('Enter second number: ')
