@@ -1,5 +1,6 @@
 a="hello world, this is the new line added"
 print(a)
+b="this is the line udpated in github"
 print (b)
 # Store input numbers
 num1 = input('Enter first number: ')
